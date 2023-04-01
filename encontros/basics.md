@@ -19,15 +19,15 @@ Python é uma linguagem de programação versátil que pode ser usada em diversa
 Esses são apenas alguns exemplos do amplo uso de Python na indústria e na comunidade de desenvolvedores. Sua flexibilidade e facilidade de uso tornam Python uma escolha popular para uma variedade de projetos e aplicações.
 
 ### Função Print
-**print(*objects, sep=' ', end='\n', file=None, flush=False)**
+**print(\*objects, sep=' ', end='\n', file=None, flush=False)**
 
 O método print() é usado para imprimir valores na tela do console ou em um arquivo. Ele tem os seguintes parâmetros:
 
-*objects: representa os objetos que se deseja imprimir na tela. Pode haver zero ou mais objetos, e eles serão impressos separados por um espaço, a menos que o parâmetro sep seja especificado.
-sep: é o separador que será usado para separar os objetos passados como argumentos. O padrão é um espaço em branco.
-end: é a string que será adicionada no final da saída. O padrão é uma nova linha ('\n').
-file: é o objeto de arquivo para o qual a saída deve ser enviada. O padrão é a saída padrão do console.
-flush: um booleano que indica se o buffer deve ser limpo após a impressão. O padrão é False, o que significa que o buffer não será limpo.
+- *objects: representa os objetos que se deseja imprimir na tela. Pode haver zero ou mais objetos, e eles serão impressos separados por um espaço, a menos que o parâmetro sep seja especificado.
+- sep: é o separador que será usado para separar os objetos passados como argumentos. O padrão é um espaço em branco.
+- end: é a string que será adicionada no final da saída. O padrão é uma nova linha ('\n').
+- file: é o objeto de arquivo para o qual a saída deve ser enviada. O padrão é a saída padrão do console.
+- flush: um booleano que indica se o buffer deve ser limpo após a impressão. O padrão é False, o que significa que o buffer não será limpo.
 
 ```python
 # Imprime a string 'Hello, World!' na tela
@@ -44,7 +44,7 @@ print('Continua', end=' ')
 with open('saida.txt', 'w') as f:
     print('Isto vai para um arquivo!', file=f)
 ```
-:exclamation: Copie o código para a sua IDE favorita para executar o código.
+:exclamation:Copie o código para a sua IDE favorita para executar o código.
 
 Para formatar um texto com python: 
 ```python
