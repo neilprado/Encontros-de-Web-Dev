@@ -97,26 +97,26 @@ print("O seu IMC é " + str(imc) + ".")
 ### Tipos de dados em Python
 
 1. Números:
-  - Inteiros: 10, -7, 0
-  - Ponto flutuante: 3.14, -2.5, 1.0
-  - Números complexos: 2 + 3j, -4j, 1 - 2j
+    - Inteiros: 10, -7, 0
+    - Ponto flutuante: 3.14, -2.5, 1.0
+    - Números complexos: 2 + 3j, -4j, 1 - 2j
 2. Sequências:
-  - Listas: [1, 2, 3], ["apple", "banana", "orange"]
-  - Tuplas: (1, 2, 3), ("apple", "banana", "orange")
-  - Strings: "Hello", 'world', "Python is fun!"
+    - Listas: [1, 2, 3], ["apple", "banana", "orange"]
+    - Tuplas: (1, 2, 3), ("apple", "banana", "orange")
+    - Strings: "Hello", 'world', "Python is fun!"
 3. Mapeamentos:
-  - Dicionários: {"name": "John", "age": 30}, {"fruit": "apple", "color": "red"}
+    - Dicionários: {"name": "John", "age": 30}, {"fruit": "apple", "color": "red"}
 4. Conjuntos:
-  - Conjuntos: {1, 2, 3}, {"apple", "banana", "orange"}
-  - Conjuntos imutáveis: frozenset([1, 2, 3]), frozenset(["apple", "banana", "orange"])
+    - Conjuntos: {1, 2, 3}, {"apple", "banana", "orange"}
+    - Conjuntos imutáveis: frozenset([1, 2, 3]), frozenset(["apple", "banana", "orange"])
 5. Booleanos:
-  - Verdadeiro: True
-  - Falso: False
+    - Verdadeiro: True
+    - Falso: False
 6. Tipos de dados binários:
-  - Bytes: b'hello', b'\x00\x01\x02'
-  - Bytearray: bytearray(b'hello')
+    - Bytes: b'hello', b'\x00\x01\x02'
+    - Bytearray: bytearray(b'hello')
 7. Tipos de dados nulos:
-  - None
+    - None
 
 ### Variáveis
 
