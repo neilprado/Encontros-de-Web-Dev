@@ -34,7 +34,7 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável *
 
 ### Questão 3 - Considerando para este problema que π = 3.14159: Efetue o cálculo da área, elevando o valor de **raio** ao quadrado e multiplicando por π.
 
-A fórmula para calcular a área de uma circunferência é: area = π . raio^2^.
+A fórmula para calcular a área de uma circunferência é: area = π . raio<sup>2</sup>.
 
 **Entrada**
 
@@ -52,7 +52,7 @@ Apresentar a mensagem abaixo seguido pelo valor da variável **area**, conforme 
 
 ### Questão 4 -  Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
 
-:exclamation: :exclamation: Apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
+:exclamation:Apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
 
 **Entrada**
 
