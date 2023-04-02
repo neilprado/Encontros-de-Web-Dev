@@ -4,10 +4,10 @@
 
 1. [História da Programação](encontros/historia.md)
 2. [O básico do Python](encontros/basics.md)
-    - [Lista de Exercícios](listas/Lista%20de%20Exerc%C3%ADcios%201.pdf)
+    - [Lista de Exercícios](listas/lista1.md)
     - [Resolução](respostas/lista1.py)
 3. [O básico do git](encontros/gitBasics.md)
 4. [Operadores em Python](encontros/operators.md)
 5. [Estruturas de Decisão em Python](encontros/decisionStructures.md)
-    - [Lista de Exercícios]()
+    - [Lista de Exercícios](listas/lista2.md)
     - [Resolução](respostas/lista2.py)
