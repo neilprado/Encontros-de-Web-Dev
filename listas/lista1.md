@@ -100,7 +100,7 @@ Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 1 d�
 | 5.0 10.0 10.0       | MEDIA = 9.0         |
 | 10.0 10.0 5.0       | MEDIA = 7.5         |
 
-### Questão 7 - Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de Ae Bpelo produto de Ce D segundo a fórmula:DIFERENCA= (A\* B-C\* D).
+### Questão 7 - Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula:DIFERENCA= (A\* B-C\* D).
 
 **Entrada**
 
