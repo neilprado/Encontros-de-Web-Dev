@@ -11,3 +11,7 @@
 5. [Estruturas de Decisão em Python](encontros/decisionStructures.md)
     - [Lista de Exercícios](listas/lista2.md)
     - [Resolução](respostas/lista2.py)
+6. [Listas em Python](encontros/lists.md)
+7. [Estruturas de Repetição](encontros/repetitions.md)
+    - [Lista de Exercícios](listas/lista3.md)
+    - [Resolução](respostas/lista3.py)
