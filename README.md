@@ -13,5 +13,6 @@
     - [Resolução](respostas/lista2.py)
 6. [Listas em Python](encontros/lists.md)
 7. [Estruturas de Repetição](encontros/repetitions.md)
+8. [Percorrendo intervalos de 0 a N](encontros/range.md)
     - [Lista de Exercícios](listas/lista3.md)
     - [Resolução](respostas/lista3.py)
